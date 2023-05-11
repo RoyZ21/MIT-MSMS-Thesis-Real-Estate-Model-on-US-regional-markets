@@ -1,0 +1,10 @@
+*C
+Start Rate Simulated[Region]|Start rate R[Region]/Stdev SR[Region]
+*C
+Under construction[Region]|Under construction R[Region]/Stdev UC[Region]
+*C
+Ungoing Construction Rate[Region]|Construction rate R[Region]/Stdev CR[Region]
+*C
+Sales Simulated[Region]|Sales R[Region]/Stdev S[Region]
+*C
+Price[Region]|Price R[Region]/Stdev P[Region]
