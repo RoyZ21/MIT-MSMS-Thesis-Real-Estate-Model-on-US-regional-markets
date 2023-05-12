@@ -1,8 +1,6 @@
 # MIT-MSMS-Thesis-Real-Estate-Model-on-US-regional-markets
-This is the model and appendix files for Tianyi Zhang's thesis "Application of A System Dynamic Model on U.S. Regional Real Estate Industry"
+This is the appendix files except for the model for Tianyi Zhang's thesis "Application of A System Dynamic Model on U.S. Regional Real Estate Industry". For anyone interested in replicate and build on the work, please contact the author (zhangtianyi2021@gmail.com).
 Two folders are included. First is the model used for calibration, which contains the following:
-
-“Real Estate V2.mdl”: the model.
 
 “Data V6.vdfx”: the dataset used for calibration.
 
@@ -13,8 +11,6 @@ Two folders are included. First is the model used for calibration, which contain
 “C 0321.out”: the calibration result
 
 Second is the model and data used for forecasting, which contains the following:
-
-“Real Estate V2 Forecast.mdl”: the model.
 
 “Fdata V1.vdfx”, “Fdata V2.vdfx”, “Fdata V3.vdfx”: datasets used for forecasting simulations, representing forecast 1, forecast 2 and forecast 3 respectively.
 
